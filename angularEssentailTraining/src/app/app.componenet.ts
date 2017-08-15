@@ -14,7 +14,7 @@ export class AppComponent {
 
     firstMediaItem = {
         name: 'The Redemtion',
-        watchedOn : '13/06/2016',
+        watchedOn : null,
         category:'action',
         year:'2016'
     }
